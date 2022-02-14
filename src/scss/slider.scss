@@ -1,0 +1,11 @@
+.slider{
+    background-color: #f9f9f9;
+    width: 100%;
+    margin: 0 auto;
+    &__img{
+        display: block;
+        width: 1200px;
+        height: 340px;
+        margin: 0 auto;
+    }
+}
